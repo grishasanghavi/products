@@ -30,7 +30,7 @@
 ## Steel Products
 
 ### Steel Window
-
+![SS Door frame](/product/steel-window.webp)
 
 ### SS Door Frame
 ![SS Door frame](/product/door-frame.webp)
